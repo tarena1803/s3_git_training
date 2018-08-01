@@ -1,1 +1,2 @@
 print("mogu")
+print("name")
